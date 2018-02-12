@@ -1,0 +1,21 @@
+{
+    "name": "plusser/yii2-just-store",
+    "description": "...",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","market","store","shop"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "plusser",
+            "email": "plusser@yandex.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "JustStore\\": ""
+        }
+    }
+}
